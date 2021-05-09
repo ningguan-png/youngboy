@@ -14,6 +14,7 @@ body {
 	--wrapper: 1180px;
 	font-size: 14px;
 }
+/*объявление шрифтов*/
 @font-face {
   font-family: 'icomoon';
   src: url("fonts/icomoon.eot");
